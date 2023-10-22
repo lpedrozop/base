@@ -1,0 +1,401 @@
+[
+  {
+    "id": "1",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Hola, ¿cómo estás?",
+        "createdAt": "2023-10-22T12:00:00Z",
+        "user": { "id": "1", "name": "Juan" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! Estoy bien, ¿y tú?",
+        "createdAt": "2023-10-22T12:01:00Z",
+        "user": { "id": "2", "name": "Pedro" }
+      }
+    ],
+    "users": [
+      { "id": "1", "name": "Juan" },
+      { "id": "2", "name": "Pedro" }
+    ]
+  },
+  {
+    "id": "2",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T12:05:00Z",
+        "user": { "id": "3", "name": "María" }
+      },
+      {
+        "id": "2",
+        "text": "Bienvenidos",
+        "createdAt": "2023-10-22T12:06:00Z",
+        "user": { "id": "4", "name": "Ana" }
+      }
+    ],
+    "users": [
+      { "id": "3", "name": "María" },
+      { "id": "4", "name": "Ana" }
+    ]
+  },
+  {
+    "id": "3",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¿Cómo va todo?",
+        "createdAt": "2023-10-22T12:10:00Z",
+        "user": { "id": "5", "name": "Luis" }
+      },
+      {
+        "id": "2",
+        "text": "Todo bien por aquí, gracias",
+        "createdAt": "2023-10-22T12:11:00Z",
+        "user": { "id": "6", "name": "Elena" }
+      }
+    ],
+    "users": [
+      { "id": "5", "name": "Luis" },
+      { "id": "6", "name": "Elena" }
+    ]
+  },
+  {
+    "id": "4",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Buenos días!",
+        "createdAt": "2023-10-22T12:15:00Z",
+        "user": { "id": "7", "name": "Carlos" }
+      },
+      {
+        "id": "2",
+        "text": "Buenos días, ¿cómo estás?",
+        "createdAt": "2023-10-22T12:16:00Z",
+        "user": { "id": "8", "name": "Laura" }
+      }
+    ],
+    "users": [
+      { "id": "7", "name": "Carlos" },
+      { "id": "8", "name": "Laura" }
+    ]
+  },
+  {
+    "id": "5",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Hola a todos",
+        "createdAt": "2023-10-22T12:20:00Z",
+        "user": { "id": "9", "name": "Javier" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! ¿Cómo están?",
+        "createdAt": "2023-10-22T12:21:00Z",
+        "user": { "id": "10", "name": "Marta" }
+      }
+    ],
+    "users": [
+      { "id": "9", "name": "Javier" },
+      { "id": "10", "name": "Marta" }
+    ]
+  },
+  {
+    "id": "6",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola! ¿Alguien aquí?",
+        "createdAt": "2023-10-22T12:25:00Z",
+        "user": { "id": "11", "name": "Sergio" }
+      },
+      {
+        "id": "2",
+        "text": "Sí, estamos aquí",
+        "createdAt": "2023-10-22T12:26:00Z",
+        "user": { "id": "12", "name": "Isabel" }
+      }
+    ],
+    "users": [
+      { "id": "11", "name": "Sergio" },
+      { "id": "12", "name": "Isabel" }
+    ]
+  },
+  {
+    "id": "7",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¿Qué tal el clima hoy?",
+        "createdAt": "2023-10-22T12:30:00Z",
+        "user": { "id": "13", "name": "Fernando" }
+      },
+      {
+        "id": "2",
+        "text": "Hace un día hermoso",
+        "createdAt": "2023-10-22T12:31:00Z",
+        "user": { "id": "14", "name": "Carolina" }
+      }
+    ],
+    "users": [
+      { "id": "13", "name": "Fernando" },
+      { "id": "14", "name": "Carolina" }
+    ]
+  },
+  {
+    "id": "8",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T12:35:00Z",
+        "user": { "id": "15", "name": "Jorge" }
+      },
+      {
+        "id": "2",
+        "text": "Hola, ¿cómo están?",
+        "createdAt": "2023-10-22T12:36:00Z",
+        "user": { "id": "16", "name": "Andrea" }
+      }
+    ],
+    "users": [
+      { "id": "15", "name": "Jorge" },
+      { "id": "16", "name": "Andrea" }
+    ]
+  },
+  {
+    "id": "9",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Buenas tardes",
+        "createdAt": "2023-10-22T12:40:00Z",
+        "user": { "id": "17", "name": "Mario" }
+      },
+      {
+        "id": "2",
+        "text": "Buenas tardes, ¿cómo estás?",
+        "createdAt": "2023-10-22T12:41:00Z",
+        "user": { "id": "18", "name": "Lucía" }
+      }
+    ],
+    "users": [
+      { "id": "17", "name": "Mario" },
+      { "id": "18", "name": "Lucía" }
+    ]
+  },
+  {
+    "id": "10",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Hola, ¿cómo estás?",
+        "createdAt": "2023-10-22T12:45:00Z",
+        "user": { "id": "19", "name": "Laura" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! Estoy bien, ¿y tú?",
+        "createdAt": "2023-10-22T12:46:00Z",
+        "user": { "id": "20", "name": "Carlos" }
+      }
+    ],
+    "users": [
+      { "id": "19", "name": "Laura" },
+      { "id": "20", "name": "Carlos" }
+    ]
+  },
+  {
+    "id": "11",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Buenos días!",
+        "createdAt": "2023-10-22T12:50:00Z",
+        "user": { "id": "21", "name": "Sofía" }
+      },
+      {
+        "id": "2",
+        "text": "Buenos días, ¿cómo amaneciste?",
+        "createdAt": "2023-10-22T12:51:00Z",
+        "user": { "id": "22", "name": "Daniel" }
+      }
+    ],
+    "users": [
+      { "id": "21", "name": "Sofía" },
+      { "id": "22", "name": "Daniel" }
+    ]
+  },
+  {
+    "id": "12",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T12:55:00Z",
+        "user": { "id": "23", "name": "Elena" }
+      },
+      {
+        "id": "2",
+        "text": "Bienvenidos",
+        "createdAt": "2023-10-22T12:56:00Z",
+        "user": { "id": "24", "name": "Javier" }
+      }
+    ],
+    "users": [
+      { "id": "23", "name": "Elena" },
+      { "id": "24", "name": "Javier" }
+    ]
+  },
+  {
+    "id": "13",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T13:00:00Z",
+        "user": { "id": "25", "name": "Ana" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! ¿Cómo están?",
+        "createdAt": "2023-10-22T13:01:00Z",
+        "user": { "id": "26", "name": "Mateo" }
+      }
+    ],
+    "users": [
+      { "id": "25", "name": "Ana" },
+      { "id": "26", "name": "Mateo" }
+    ]
+  },
+  {
+    "id": "14",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Buenas tardes",
+        "createdAt": "2023-10-22T13:05:00Z",
+        "user": { "id": "27", "name": "Valeria" }
+      },
+      {
+        "id": "2",
+        "text": "Buenas tardes, ¿cómo estás?",
+        "createdAt": "2023-10-22T13:06:00Z",
+        "user": { "id": "28", "name": "David" }
+      }
+    ],
+    "users": [
+      { "id": "27", "name": "Valeria" },
+      { "id": "28", "name": "David" }
+    ]
+  },
+  {
+    "id": "15",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Hola, ¿cómo estás?",
+        "createdAt": "2023-10-22T13:10:00Z",
+        "user": { "id": "29", "name": "Luisa" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! Estoy bien, ¿y tú?",
+        "createdAt": "2023-10-22T13:11:00Z",
+        "user": { "id": "30", "name": "Juan" }
+      }
+    ],
+    "users": [
+      { "id": "29", "name": "Luisa" },
+      { "id": "30", "name": "Juan" }
+    ]
+  },
+  {
+    "id": "16",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Buenas tardes",
+        "createdAt": "2023-10-22T13:15:00Z",
+        "user": { "id": "31", "name": "María" }
+      },
+      {
+        "id": "2",
+        "text": "Buenas tardes, ¿cómo estás?",
+        "createdAt": "2023-10-22T13:16:00Z",
+        "user": { "id": "32", "name": "Pedro" }
+      }
+    ],
+    "users": [
+      { "id": "31", "name": "María" },
+      { "id": "32", "name": "Pedro" }
+    ]
+  },
+  {
+    "id": "17",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T13:20:00Z",
+        "user": { "id": "33", "name": "Elena" }
+      },
+      {
+        "id": "2",
+        "text": "Bienvenidos",
+        "createdAt": "2023-10-22T13:21:00Z",
+        "user": { "id": "34", "name": "Javier" }
+      }
+    ],
+    "users": [
+      { "id": "33", "name": "Elena" },
+      { "id": "34", "name": "Javier" }
+    ]
+  },
+  {
+    "id": "18",
+    "messages": [
+      {
+        "id": "1",
+        "text": "¡Hola a todos!",
+        "createdAt": "2023-10-22T13:25:00Z",
+        "user": { "id": "35", "name": "Ana" }
+      },
+      {
+        "id": "2",
+        "text": "¡Hola! ¿Cómo están?",
+        "createdAt": "2023-10-22T13:26:00Z",
+        "user": { "id": "36", "name": "Mateo" }
+      }
+    ],
+    "users": [
+      { "id": "35", "name": "Ana" },
+      { "id": "36", "name": "Mateo" }
+    ]
+  },
+  {
+    "id": "19",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Buenas noches",
+        "createdAt": "2023-10-22T13:30:00Z",
+        "user": { "id": "37", "name": "Valeria" }
+      },
+      {
+        "id": "2",
+        "text": "Buenas noches, ¿cómo estás?",
+        "createdAt": "2023-10-22T13:31:00Z",
+        "user": { "id": "38", "name": "David" }
+      }
+    ],
+    "users": [
+      { "id": "37", "name": "Valeria" },
+      { "id": "38", "name": "David" }
+    ]
+  }
+]
